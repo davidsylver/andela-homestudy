@@ -154,3 +154,4 @@ At Andela, our values can be sumarized as EPIC - Excellence, Passion, Integrity,
 
 [x] [Understaning Andel's EPIC Values]
 (This is my own edit to this file fromthe which will obviously be diffrent from the forked version of the file)
+[x] [This is Thermodynamic in the sense that i will not be in the change that will be on]
