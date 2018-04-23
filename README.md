@@ -151,3 +151,6 @@ This module will cover the fundamentals of web programming and technologies used
 At Andela, our values can be sumarized as EPIC - Excellence, Passion, Integrity, and Collaboration. This module covers the fundamental principles of being EPIC.
 
 * [x] [Understanding Andela’s EPIC Values](https://docs.google.com/document/d/1Cb1YLA19BEQh2v0yLYtCsZ1Uz352Sa_f-vNZzgzKiYI/)
+
+[x] [Understaning Andel's EPIC Values]
+(This is my own edit to this file fromthe which will obviously be diffrent from the forked version of the file)
